@@ -1,3 +1,5 @@
+# he was not banned because
+
 because the people who coded it are retarded
 
 they gatekeeped less than 20 lines of code. it got leaked, and it uses something as simple as letter rearrangement. not only that, everyone joined at once so it couldn't send enough reports
