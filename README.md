@@ -6,4 +6,4 @@ i leaked this because the owners are trying to hide and gatekeep 20 lines of cod
 
 also this was probably an exploit available to use for like 15 years, roblox has been able to make other people chat via serversides and blah blah blah
 
-blame roblox for this massive fucking shitshow. as always, dsc.gg/coppaware on top!
+blame roblox for this massive fucking shitshow. as always, dsc.gg/coppaware on top! (this will be edited to contain more info about the code, and a modified version with tutorials that works better.
