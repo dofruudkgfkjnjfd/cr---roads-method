@@ -6,4 +6,4 @@ I leaked this because the owners are trying to hide and gatekeep 20 lines of cod
 
 Blame roblox for this massive exploit that literally made roblox completely unsafe to play. As always, dsc.gg/coppaware on top! (Fuck DWC ong)
 
-<3 yall. Leaked by ._ÆÐÍýð÷öàÒò²Ô¤ÙäË°ÕÏ®îÄÈùªç½êã#6005 | Recoded and explained by bbb#4444
+<3 yall. Leaked by "._ÆÐÍýð÷öàÒò²Ô¤ÙäË°ÕÏ®îÄÈùªç½êã#6005" | Recoded and explained by "bbb#4444"
