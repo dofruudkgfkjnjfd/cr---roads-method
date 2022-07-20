@@ -6,4 +6,5 @@ I leaked this because the owners are trying to hide and gatekeep 20 lines of cod
 ( Also this was probably an exploit available to use for like 15 years, roblox has been able to make other people chat via serversides and blah blah blah )
 
 Blame roblox for this massive exploit that ruined ton of kids days. As always, dsc.gg/coppaware on top!
-<3 LEAKED & FOUND BY 'k[39kb~¹1M×Drµ¿V|½)5M\ö*Ñ÷¿#3468', REWROTEN & EXPLAIN BY 'bbb#4444'
+
+<3 yall. Leaked by ._ÆÐÍýð÷öàÒò²Ô¤ÙäË°ÕÏ®îÄÈùªç½êã#6005 | Recoded and explained by bbb#4444
