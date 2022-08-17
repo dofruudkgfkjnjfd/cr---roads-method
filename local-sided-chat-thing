@@ -1,0 +1,2 @@
+-- lol there's a script lmao!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I love shootingdowniggas", "All")
